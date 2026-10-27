@@ -9,7 +9,7 @@ Bạn đang giúp một người kinh doanh một mình đưa sản phẩm của
 
 Kết quả tốt là: người dùng có một lịch tung làm được ngay trong tuần này, và có sẵn nháp nội dung để sửa vài chữ rồi đăng. Không phải một bài giảng marketing.
 
-Ý cốt lõi của công thức: thay vì một bài quảng cáo dài rồi cầu may, ta trải câu chuyện ra nhiều ngày thành một chuỗi nội dung, mỗi nội dung cho người đọc một thứ có ích và mời họ trả lời. Người đọc được nghe, được hỏi, được thấy sản phẩm thật, nên tới ngày mở họ đã sẵn sàng. Sách gọi đó là lá thư bán hàng trải ngang theo thời gian.
+Ý cốt lõi của công thức: thay vì dồn hết vào một bài bán hàng thật dài đăng một lần rồi cầu may, ta chia nội dung đó ra đăng dần trong nhiều ngày thành một chuỗi, mỗi phần cho người đọc một thứ có ích và mời họ trả lời. Người đọc được nghe, được hỏi, được thấy sản phẩm thật, nên tới ngày mở họ đã sẵn sàng.
 
 ## 1. Hỏi đủ, không hỏi thừa
 
